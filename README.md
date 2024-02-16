@@ -4,7 +4,7 @@
 | ------------- | ------------- |
 
 - 🔭 I’m currently working on traffic simulation calibration and mobiltiy data analytics. I often use machine learning and deep learning.
-- 🌱 I’m currently learning a lot of things
+- 🌱 I’m currently learning as well developing data-driven applications on Cloud. The main focus is apply best data engineering and data science practices and tools to make innovative solutions.
 
 HOT 🔥🔥🚀
 Check out this real-time traffic prediction [frontend snapshot](http://traffiq-paris.s3-website.eu-north-1.amazonaws.com) created by me. More details on the cloud powered backend to follow.
