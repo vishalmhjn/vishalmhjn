@@ -6,6 +6,9 @@
 - 🔭 I’m currently working on traffic simulation calibration and mobiltiy data analytics. I often use machine learning and deep learning.
 - 🌱 I’m currently learning a lot of things
 
+HOT 🔥🔥🚀
+Check out this real-time traffic prediction [frontend snapshot](http://traffiq-paris.s3-website.eu-north-1.amazonaws.com) created by me. More details on the cloud powered backend to follow.
+
 <!--
 **vishalmhjn/vishalmhjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
