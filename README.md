@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning as well developing data-driven applications on Cloud. The main focus is apply best data engineering and data science practices and tools to make innovative solutions.
 
 HOT 🔥🔥🚀
-Check out this real-time traffic prediction [frontend snapshot](http://traffiq-paris.s3-website.eu-north-1.amazonaws.com) created by me. More details [here](https://github.com/vishalmhjn/traffic-waves).
+Check out this real-time traffic prediction [frontend snapshot](https://vishalmhjn.github.io/traffic-waves/index.html) created by me. More details [here](https://github.com/vishalmhjn/traffic-waves).
 
 <!--
 **vishalmhjn/vishalmhjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
