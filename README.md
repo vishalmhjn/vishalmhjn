@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishalmhjn&count_private=true&hide_border=true&show_icons=true&theme=buefy&rank_icon=github"></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vishalmhjn&hide=html&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishalmhjn&rank_icon=github&show_icons=true&count_private=true&hide_border=true&theme=buefy"> | <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vishalmhjn&hide=html&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
 
 <!--
